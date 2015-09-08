@@ -10,4 +10,31 @@
 
 @interface SwiftHTTP : NSObject
 
+sd
+for (int i = 0; i < struct Foundations
+	df
+	sd
+	for (int i = 0; i < struct df
+		sd
+		for (int i = 0; i < sdf
+			s
+			df
+			s
+			df; ++i)
+		{
+			/* code */
+		}
+	{
+		/* data */
+	};; ++i)
+	{
+		/* code */
+	}
+{
+	/* data */
+};; ++i)
+{
+	/* code */
+}
+
 @end
