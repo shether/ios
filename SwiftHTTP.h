@@ -21,6 +21,18 @@ for (int i = 0; i < struct Foundations
 			df
 			s
 			df; ++i)
+			a
+		sdf
+		asd
+		for (int i = 0; i < sdf
+			sdf
+			do
+			{
+				/* code */
+			} while (/* condition */);; ++i)
+		{
+			/* code */
+		}
 		{
 			/* code */
 		}
